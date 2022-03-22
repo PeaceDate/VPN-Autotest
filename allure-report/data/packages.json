@@ -1,0 +1,484 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Check autorization page (nagative)",
+    "children" : [ {
+      "name" : "Check empty field email",
+      "uid" : "6a820743d9f32789",
+      "parentUid" : "235d7742145959945e2f83a023c9a41e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940657943,
+        "stop" : 1647940661197,
+        "duration" : 3254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check empty field email (checked checkbox)",
+      "uid" : "bfe766dabe5a0672",
+      "parentUid" : "235d7742145959945e2f83a023c9a41e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940661219,
+        "stop" : 1647940662949,
+        "duration" : 1730
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check email field validation test",
+      "uid" : "e65275144aabbaca",
+      "parentUid" : "235d7742145959945e2f83a023c9a41e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940662960,
+        "stop" : 1647940664166,
+        "duration" : 1206
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check email field validation test@@test.com",
+      "uid" : "623007c238335caa",
+      "parentUid" : "235d7742145959945e2f83a023c9a41e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940664172,
+        "stop" : 1647940665709,
+        "duration" : 1537
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check email field validation test@test..com",
+      "uid" : "7a929d67dd2ded58",
+      "parentUid" : "235d7742145959945e2f83a023c9a41e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940665721,
+        "stop" : 1647940667518,
+        "duration" : 1797
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check email field validation test@test.@com",
+      "uid" : "709c676f93fb8af3",
+      "parentUid" : "235d7742145959945e2f83a023c9a41e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940667545,
+        "stop" : 1647940669206,
+        "duration" : 1661
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check email field validation test.@test.com",
+      "uid" : "6c24bde075b9de6b",
+      "parentUid" : "235d7742145959945e2f83a023c9a41e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940669221,
+        "stop" : 1647940670835,
+        "duration" : 1614
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check email field validation test@test.com..",
+      "uid" : "5e1f9a4d94876ec4",
+      "parentUid" : "235d7742145959945e2f83a023c9a41e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940670852,
+        "stop" : 1647940672775,
+        "duration" : 1923
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "235d7742145959945e2f83a023c9a41e"
+  }, {
+    "name" : "Check autorization page (positive)",
+    "children" : [ {
+      "name" : "Check Get Iron VPN primary button",
+      "uid" : "4da1e899a06dc33",
+      "parentUid" : "d2e4149f301daea85a8c511286da1140",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940675912,
+        "stop" : 1647940679009,
+        "duration" : 3097
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check Get Iron VPN secondary button",
+      "uid" : "799dc9088659f0c",
+      "parentUid" : "d2e4149f301daea85a8c511286da1140",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940679031,
+        "stop" : 1647940680140,
+        "duration" : 1109
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check Get Iron VPN popup (primary button)",
+      "uid" : "6f2b5fb648dd5012",
+      "parentUid" : "d2e4149f301daea85a8c511286da1140",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940680157,
+        "stop" : 1647940681194,
+        "duration" : 1037
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check Get Iron VPN popup (secondary button)",
+      "uid" : "1c700eaff1f69472",
+      "parentUid" : "d2e4149f301daea85a8c511286da1140",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940681213,
+        "stop" : 1647940682208,
+        "duration" : 995
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check close Get Iron VPN popup",
+      "uid" : "38a4ba727d192d36",
+      "parentUid" : "d2e4149f301daea85a8c511286da1140",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940682224,
+        "stop" : 1647940683386,
+        "duration" : 1162
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check value from select",
+      "uid" : "6fa7dde1c0a8677c",
+      "parentUid" : "d2e4149f301daea85a8c511286da1140",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940683393,
+        "stop" : 1647940685040,
+        "duration" : 1647
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d2e4149f301daea85a8c511286da1140"
+  }, {
+    "name" : "Check payment page (negative)",
+    "children" : [ {
+      "name" : "Check empty fields validation",
+      "uid" : "b6581d0cc03593be",
+      "parentUid" : "d314898be474688b642310e81d615a31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940688600,
+        "stop" : 1647940695755,
+        "duration" : 7155
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check card number field validation Card number: 11111111111",
+      "uid" : "89a3f2e66480a4e3",
+      "parentUid" : "d314898be474688b642310e81d615a31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940695786,
+        "stop" : 1647940702351,
+        "duration" : 6565
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check card number field validation Card number: 23424",
+      "uid" : "596f0823f0a6b042",
+      "parentUid" : "d314898be474688b642310e81d615a31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940702392,
+        "stop" : 1647940708836,
+        "duration" : 6444
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check data field validation Date: 01/2021",
+      "uid" : "af4fe735470f1f3c",
+      "parentUid" : "d314898be474688b642310e81d615a31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940708864,
+        "stop" : 1647940716164,
+        "duration" : 7300
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check data field validation Date: 01/2073",
+      "uid" : "d376c501bcb61aaa",
+      "parentUid" : "d314898be474688b642310e81d615a31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940716189,
+        "stop" : 1647940723162,
+        "duration" : 6973
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check data field validation Date: 01/",
+      "uid" : "69f3ffad7eb0c0a8",
+      "parentUid" : "d314898be474688b642310e81d615a31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940723184,
+        "stop" : 1647940730068,
+        "duration" : 6884
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check cvv validation",
+      "uid" : "1d3f6072694d8279",
+      "parentUid" : "d314898be474688b642310e81d615a31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940730095,
+        "stop" : 1647940736867,
+        "duration" : 6772
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d314898be474688b642310e81d615a31"
+  }, {
+    "name" : "Check payment page (positive)",
+    "children" : [ {
+      "name" : "Check Get Iron VPN primary button",
+      "uid" : "4495db31f953dcf6",
+      "parentUid" : "70a6ca0fa540eee56c84d0a87303e901",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940739942,
+        "stop" : 1647940743985,
+        "duration" : 4043
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check Get Iron VPN secondary button",
+      "uid" : "447aec1640c5e0f2",
+      "parentUid" : "70a6ca0fa540eee56c84d0a87303e901",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940744034,
+        "stop" : 1647940747700,
+        "duration" : 3666
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check payment popup (primary button)",
+      "uid" : "e05c943125a7d616",
+      "parentUid" : "70a6ca0fa540eee56c84d0a87303e901",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940747718,
+        "stop" : 1647940754171,
+        "duration" : 6453
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check payment popup (secondary button)",
+      "uid" : "61955377a036427a",
+      "parentUid" : "70a6ca0fa540eee56c84d0a87303e901",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940754211,
+        "stop" : 1647940760496,
+        "duration" : 6285
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Check close payment popup",
+      "uid" : "aec7e3f1e388b393",
+      "parentUid" : "70a6ca0fa540eee56c84d0a87303e901",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940760515,
+        "stop" : 1647940770989,
+        "duration" : 10474
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "70a6ca0fa540eee56c84d0a87303e901"
+  }, {
+    "name" : "Check user flow",
+    "children" : [ {
+      "name" : "Check login and payment",
+      "uid" : "2db6fc7eac45f3b",
+      "parentUid" : "b4576ec1861ee843b2d2d10de558350a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940781818,
+        "stop" : 1647940798801,
+        "duration" : 16983
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b4576ec1861ee843b2d2d10de558350a"
+  } ],
+  "name" : "packages"
+}

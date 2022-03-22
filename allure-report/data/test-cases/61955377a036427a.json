@@ -1,0 +1,50 @@
+{
+  "uid" : "61955377a036427a",
+  "name" : "Check payment popup (secondary button)",
+  "fullName" : "Check payment page (positive).Check payment popup (secondary button)",
+  "historyId" : "de5053164ba2e0237ff739c2e632769e",
+  "time" : {
+    "start" : 1647940754211,
+    "stop" : 1647940760496,
+    "duration" : 6285
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check payment popup (secondary button)"
+  }, {
+    "name" : "package",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61955377a036427a.json",
+  "parameterValues" : [ ]
+}

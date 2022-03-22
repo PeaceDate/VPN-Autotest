@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1647940657942' stop='1647940672795'>
+    <name>Check autorization page (nagative)</name>
+    <title>Check autorization page (nagative)</title>
+    <test-cases>
+        <test-case start='1647940657943' status='passed' stop='1647940661197'>
+            <name>Check empty field email</name>
+            <title>Check empty field email</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940661219' status='passed' stop='1647940662949'>
+            <name>Check empty field email (checked checkbox)</name>
+            <title>Check empty field email (checked checkbox)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940662960' status='passed' stop='1647940664166'>
+            <name>Check email field validation test</name>
+            <title>Check email field validation test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940664172' status='passed' stop='1647940665709'>
+            <name>Check email field validation test@@test.com</name>
+            <title>Check email field validation test@@test.com</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940665721' status='passed' stop='1647940667518'>
+            <name>Check email field validation test@test..com</name>
+            <title>Check email field validation test@test..com</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940667545' status='passed' stop='1647940669206'>
+            <name>Check email field validation test@test.@com</name>
+            <title>Check email field validation test@test.@com</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940669221' status='passed' stop='1647940670835'>
+            <name>Check email field validation test.@test.com</name>
+            <title>Check email field validation test.@test.com</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940670852' status='passed' stop='1647940672775'>
+            <name>Check email field validation test@test.com..</name>
+            <title>Check email field validation test@test.com..</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,50 @@
+{
+  "uid" : "e65275144aabbaca",
+  "name" : "Check email field validation test",
+  "fullName" : "Check autorization page (nagative).Check email field validation test",
+  "historyId" : "b071d585844bd80a7bfdd1eaed7af593",
+  "time" : {
+    "start" : 1647940662960,
+    "stop" : 1647940664166,
+    "duration" : 1206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check email field validation test"
+  }, {
+    "name" : "package",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e65275144aabbaca.json",
+  "parameterValues" : [ ]
+}

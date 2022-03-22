@@ -1,0 +1,50 @@
+{
+  "uid" : "38a4ba727d192d36",
+  "name" : "Check close Get Iron VPN popup",
+  "fullName" : "Check autorization page (positive).Check close Get Iron VPN popup",
+  "historyId" : "c5eb97d1458f0a797a19bdc7b0194f72",
+  "time" : {
+    "start" : 1647940682224,
+    "stop" : 1647940683386,
+    "duration" : 1162
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check close Get Iron VPN popup"
+  }, {
+    "name" : "package",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38a4ba727d192d36.json",
+  "parameterValues" : [ ]
+}

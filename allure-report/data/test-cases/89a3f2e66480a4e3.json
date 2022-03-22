@@ -1,0 +1,50 @@
+{
+  "uid" : "89a3f2e66480a4e3",
+  "name" : "Check card number field validation Card number: 11111111111",
+  "fullName" : "Check payment page (negative).Check card number field validation Card number: 11111111111",
+  "historyId" : "e4d4670744e2679fba3775600f305099",
+  "time" : {
+    "start" : 1647940695786,
+    "stop" : 1647940702351,
+    "duration" : 6565
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check card number field validation Card number: 11111111111"
+  }, {
+    "name" : "package",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89a3f2e66480a4e3.json",
+  "parameterValues" : [ ]
+}

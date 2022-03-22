@@ -1,0 +1,21 @@
+{
+	"integrationFolder": "cypress/integration",
+	"fixturesFolder": "cypress/fixtures",
+	"testFiles": "**/**/*.spec.ts",
+	"baseUrl": "https://ironvpn.me",
+	"viewportHeight": 1024,
+	"viewportWidth": 1920,
+	"video": false,
+	"chromeWebSecurity": false,
+	"numTestsKeptInMemory": 0,
+	"requestTimeout": 10000,
+	"responseTimeout": 60000,
+	"defaultCommandTimeout": 10000,
+	"reporter": "mocha-allure-reporter",
+	"watchForFileChanges": false,
+	"reporterOptions": {
+		"targetDir": "cypress/results"
+	},
+	"projectId": "VPN"
+}
+

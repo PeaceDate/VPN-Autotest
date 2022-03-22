@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1647940675910' stop='1647940685057'>
+    <name>Check autorization page (positive)</name>
+    <title>Check autorization page (positive)</title>
+    <test-cases>
+        <test-case start='1647940675912' status='passed' stop='1647940679009'>
+            <name>Check Get Iron VPN primary button</name>
+            <title>Check Get Iron VPN primary button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940679031' status='passed' stop='1647940680140'>
+            <name>Check Get Iron VPN secondary button</name>
+            <title>Check Get Iron VPN secondary button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940680157' status='passed' stop='1647940681194'>
+            <name>Check Get Iron VPN popup (primary button)</name>
+            <title>Check Get Iron VPN popup (primary button)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940681213' status='passed' stop='1647940682208'>
+            <name>Check Get Iron VPN popup (secondary button)</name>
+            <title>Check Get Iron VPN popup (secondary button)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940682224' status='passed' stop='1647940683386'>
+            <name>Check close Get Iron VPN popup</name>
+            <title>Check close Get Iron VPN popup</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647940683393' status='passed' stop='1647940685040'>
+            <name>Check value from select</name>
+            <title>Check value from select</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

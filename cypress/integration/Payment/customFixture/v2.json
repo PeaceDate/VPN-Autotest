@@ -1,0 +1,34 @@
+{
+   "status":"success",
+   "data":{
+      "is_sandbox":"true",
+      "order_id":1647905221118,
+      "order_uuid":"30f9da0f-1a2e-49d8-bc72-1108123ec25c",
+      "services":{
+         "paypal":{
+            "url":null
+         },
+         "solidgate":{
+            "creditcard":{
+               "mode":"popup",
+               "url":null,
+               "form_data":{
+                  "merchant":"futurra_card_sandbox",
+                  "signature":"OThjZmViOGYyMzlmMzMzYjYyOGVjMjIwYWZmZTdjNDFkMWNmZjg5NTczZTI2Yjc1MmNjZjM1M2ZkMWM3MDAzMzUzMTVhNDdkYzFiNmRkYjY0MDJlYzYyMTk4ZTlmMmE5NTI0NTAyYjIwZDRjZTQyNDFiMThjM2Q5ZDM5MTM5ODQ=",
+                  "paymentIntent":"ZTlrSrrSWB-BSWPcD7qhLBnklEdM9TxSyE62HartdrrAj8yIcV2EsMC2kRVyf-q3aJqwu3Z8oG4QoHdzmcXIF71fJ1sv2FYksxL8XTcZq3rjaJK3BX1MpLnkDxddvy0q5VxFgbjh4Ka0KH7C6gL6y07Bb-NyBRsPyV2K1WcsGLZATp_9WClvKFoKONpuqu4ZFPn0UdrNICQsfbK82M4B3p4vMVr3w1B4bUksVOMktr_lp-pkXJ0qQqLypX8MN2-lTayRtxFImp1eA3vspZ0gekRKzSe7F7NtnICV8XRNcnD2E5f3aDhQwjcmGmbiXZ2pC8ooGd-nCZEUL5nJjWsWB7Ji-iUaVJq989l2VVT_Xr_N84UFhXihionCdCnYXXEiECDyeNqgpDkQnxhT1k_yHcmET0z5_t2F4JpEMlp_TVZje1myvBSREmhSXwc-XHrwkXxt1_oleQhteVIaZzvFSLj7D0uguAfmKNu57Jlz2cxFka3bOA6RHqF7b6KtSEQTmjjVlqqAG6j7aJa0waWOXoXnX7e9qruAF09CM3VtuwBeeQB1NwY_TlQBDGWRkApBkZmdtmEoQlht9oqq3B6sbXEJdRPXsJKDSqVf59LlvS68N8EXMFPK4pBuHu9_fSk6kp1_WaoOuN90raN6mxvBL205Q_8DiGjDpk3B2QDoqXuK26UDJ4q5POQ9ElkjFlCRhqX-c-e1RIcezXvtnaSLhrOU6iO0gwCvGLFfue8hJ61nFgWrDg1LKhLF0rzUMfjjshLX9G43XhoIS2b4s4THQ01IMZ-06ofTZ_lpBoEwoz19_E80zlUFY08CqIYtQjaI2KsCPC21gzSbh5s5OBkZfni4oKZt4i21_9sDDzMOOvGNIfD7BObcDAVFOWeJ5rZVwi-mNcqzbk_Jd--qVvONhIW8E19jbgIfuYQtUx03MAKa7viLul_akezkYT9S88V_aQmwL7LNHYPr8NzHn8WePOoujdtArH-0SFKfYuVyoCBmJKm-04bJ1w6r47iXzssx1HkH6JQaO-xtmWVV6dz8bjqALBh6dXHYKG6mP7IgmKEdpDJy-zTx9IcJVR3r2V1S"
+               }
+            },
+            "paypal":{
+               "script_url":null
+            }
+         },
+         "stripe":{
+            "intent":null
+         },
+         "maxpay":{
+            "frame_code":null,
+            "url":null
+         }
+      }
+   }
+}
