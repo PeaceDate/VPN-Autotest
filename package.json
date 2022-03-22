@@ -1,0 +1,29 @@
+{
+  "name": "vpn-autotest",
+  "version": "1.0.0",
+  "description": "## Запуск тестов 1. npm install 2. npm add typescript если это нужно 3. npx cypress open - для запуска в режиме UI 4. npx cypress run - для запуска в безголовом режиме",
+  "main": "index.js",
+  "dependencies": {
+    "allure-commandline": "^2.17.2",
+    "cypress": "^8.0.0",
+    "cypress-iframe": "^1.0.1",
+    "mocha-allure-reporter": "^1.4.0",
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeaceDate/VPN-Autotest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeaceDate/VPN-Autotest/issues"
+  },
+  "homepage": "https://github.com/PeaceDate/VPN-Autotest#readme"
+}
