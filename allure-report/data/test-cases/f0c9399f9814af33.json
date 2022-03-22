@@ -1,0 +1,58 @@
+{
+  "uid" : "f0c9399f9814af33",
+  "name" : "Check empty fields validation",
+  "fullName" : "Check payment page (negative).Check empty fields validation",
+  "historyId" : "12da9196631cbbd7c6ab2c3bba768244",
+  "time" : {
+    "start" : 1647944768006,
+    "stop" : 1647944774860,
+    "duration" : 6854
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check empty fields validation"
+  }, {
+    "name" : "package",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3ff2d1a6c5ac44b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940688600,
+        "stop" : 1647940695755,
+        "duration" : 7155
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0c9399f9814af33.json",
+  "parameterValues" : [ ]
+}

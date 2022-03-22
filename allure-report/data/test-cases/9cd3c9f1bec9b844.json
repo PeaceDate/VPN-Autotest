@@ -1,0 +1,50 @@
+{
+  "uid" : "9cd3c9f1bec9b844",
+  "name" : "Check login and payment (invalid date)",
+  "fullName" : "Check user flow.Check login and payment (invalid date)",
+  "historyId" : "55e7d7949c001abb45d6e8878d577a3a",
+  "time" : {
+    "start" : 1647944841854,
+    "stop" : 1647944854622,
+    "duration" : 12768
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check user flow"
+  }, {
+    "name" : "testClass",
+    "value" : "Check user flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check login and payment (invalid date)"
+  }, {
+    "name" : "package",
+    "value" : "Check user flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9cd3c9f1bec9b844.json",
+  "parameterValues" : [ ]
+}

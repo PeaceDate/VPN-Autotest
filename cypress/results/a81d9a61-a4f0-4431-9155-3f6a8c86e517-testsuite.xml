@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1647944841854' stop='1647944866028'>
+    <name>Check user flow</name>
+    <title>Check user flow</title>
+    <test-cases>
+        <test-case start='1647944841854' status='passed' stop='1647944854622'>
+            <name>Check login and payment (invalid date)</name>
+            <title>Check login and payment (invalid date)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944854643' status='passed' stop='1647944866007'>
+            <name>Check login and payment (invalid cvv)</name>
+            <title>Check login and payment (invalid cvv)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

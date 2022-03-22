@@ -1,0 +1,48 @@
+{
+  "uid" : "3accdf59ebcf7c4a",
+  "name" : "Check Get Iron VPN secondary button",
+  "fullName" : "Check autorization page (positive).Check Get Iron VPN secondary button",
+  "historyId" : "4a216bd6ab0679e4cd05ffd17ccc6e2f",
+  "time" : {
+    "start" : 1647940679031,
+    "stop" : 1647940680140,
+    "duration" : 1109
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check Get Iron VPN secondary button"
+  }, {
+    "name" : "package",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3accdf59ebcf7c4a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "268c57456b5d83f7",
+  "name" : "Check email field validation test.@test.com",
+  "fullName" : "Check autorization page (nagative).Check email field validation test.@test.com",
+  "historyId" : "8d8c5c1c5a08bfe4a24a86d63dd768cc",
+  "time" : {
+    "start" : 1647940669221,
+    "stop" : 1647940670835,
+    "duration" : 1614
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check email field validation test.@test.com"
+  }, {
+    "name" : "package",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "268c57456b5d83f7.json",
+  "parameterValues" : [ ]
+}

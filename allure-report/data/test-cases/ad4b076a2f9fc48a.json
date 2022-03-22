@@ -1,0 +1,58 @@
+{
+  "uid" : "ad4b076a2f9fc48a",
+  "name" : "Check Get Iron VPN popup (primary button)",
+  "fullName" : "Check autorization page (positive).Check Get Iron VPN popup (primary button)",
+  "historyId" : "26e5c991b869ba140069095b9807dd45",
+  "time" : {
+    "start" : 1647944757810,
+    "stop" : 1647944759168,
+    "duration" : 1358
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check Get Iron VPN popup (primary button)"
+  }, {
+    "name" : "package",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "38156b146a5c11f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940680157,
+        "stop" : 1647940681194,
+        "duration" : 1037
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad4b076a2f9fc48a.json",
+  "parameterValues" : [ ]
+}

@@ -5,7 +5,8 @@ export const mapping_payment = {
         payButton: '.submit_button'
     },
     popups: {
-        getIronVpnPopup: '.hystmodal__window'
+        getIronVpnPopup: '.hystmodal__window',
+        unsuccessPopap: '.modal-content'
     },
     forms: {
         

@@ -13,7 +13,9 @@ export const user_flow_data = {
             autorization_requestParam: 'qa%40test.com',
             cardNumber: '4532456618142692',
             date: '03/2029',
+            invalid_date: '03/2040',
             cvv: '967',
+            invalid_cvv: '666',
             newUrl: 'https://ironvpn.me/successful.html'
         }
     }

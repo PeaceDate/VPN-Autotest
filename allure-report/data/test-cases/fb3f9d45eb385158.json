@@ -1,0 +1,58 @@
+{
+  "uid" : "fb3f9d45eb385158",
+  "name" : "Check value from select",
+  "fullName" : "Check autorization page (positive).Check value from select",
+  "historyId" : "653239ea8035abe7c86606e3fce2c52f",
+  "time" : {
+    "start" : 1647944762587,
+    "stop" : 1647944764400,
+    "duration" : 1813
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check value from select"
+  }, {
+    "name" : "package",
+    "value" : "Check autorization page (positive)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "36f56ed4456fdd18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940683393,
+        "stop" : 1647940685040,
+        "duration" : 1647
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb3f9d45eb385158.json",
+  "parameterValues" : [ ]
+}

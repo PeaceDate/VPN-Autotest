@@ -1,0 +1,58 @@
+{
+  "uid" : "579410516b9f6f6c",
+  "name" : "Check empty field email",
+  "fullName" : "Check autorization page (nagative).Check empty field email",
+  "historyId" : "5ad97c79e9c88912fbf6f9eaec7406cf",
+  "time" : {
+    "start" : 1647944737387,
+    "stop" : 1647944740807,
+    "duration" : 3420
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check empty field email"
+  }, {
+    "name" : "package",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b352967686a36cc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940657943,
+        "stop" : 1647940661197,
+        "duration" : 3254
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "579410516b9f6f6c.json",
+  "parameterValues" : [ ]
+}

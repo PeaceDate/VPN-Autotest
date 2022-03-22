@@ -1,0 +1,58 @@
+{
+  "uid" : "e72e82375e25710e",
+  "name" : "Check email field validation test@test.@com",
+  "fullName" : "Check autorization page (nagative).Check email field validation test@test.@com",
+  "historyId" : "87594344be67cabe8ba55874246df0d1",
+  "time" : {
+    "start" : 1647944746458,
+    "stop" : 1647944747772,
+    "duration" : 1314
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check email field validation test@test.@com"
+  }, {
+    "name" : "package",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "768b3b0f021bf577",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940667545,
+        "stop" : 1647940669206,
+        "duration" : 1661
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e72e82375e25710e.json",
+  "parameterValues" : [ ]
+}

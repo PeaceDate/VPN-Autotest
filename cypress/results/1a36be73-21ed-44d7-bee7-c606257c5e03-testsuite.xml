@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1647944814473' stop='1647944838660'>
+    <name>Check payment page (positive)</name>
+    <title>Check payment page (positive)</title>
+    <test-cases>
+        <test-case start='1647944814473' status='passed' stop='1647944817582'>
+            <name>Check Get Iron VPN primary button</name>
+            <title>Check Get Iron VPN primary button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944817595' status='passed' stop='1647944820462'>
+            <name>Check Get Iron VPN secondary button</name>
+            <title>Check Get Iron VPN secondary button</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944820474' status='passed' stop='1647944825678'>
+            <name>Check payment popup (primary button)</name>
+            <title>Check payment popup (primary button)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944825692' status='passed' stop='1647944830794'>
+            <name>Check payment popup (secondary button)</name>
+            <title>Check payment popup (secondary button)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944830807' status='passed' stop='1647944838641'>
+            <name>Check close payment popup</name>
+            <title>Check close payment popup</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

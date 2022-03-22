@@ -7,3 +7,7 @@
 4. npx cypress run - для запуска в безголовом режиме
 
 Отчеты по тестам лежат в папке allure-report, html файл с отчетами о локальном прогоне тестов
+
+Для того что бы сгенерить новый отчет:
+
+allure generate --clean cypress/results --report-dir allure-report

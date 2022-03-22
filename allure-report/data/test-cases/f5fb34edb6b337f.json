@@ -1,0 +1,48 @@
+{
+  "uid" : "f5fb34edb6b337f",
+  "name" : "Check cvv validation",
+  "fullName" : "Check payment page (negative).Check cvv validation",
+  "historyId" : "51ae94c2c919b58907b80fdebb01d51f",
+  "time" : {
+    "start" : 1647940730095,
+    "stop" : 1647940736867,
+    "duration" : 6772
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check cvv validation"
+  }, {
+    "name" : "package",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5fb34edb6b337f.json",
+  "parameterValues" : [ ]
+}

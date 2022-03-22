@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1647944768006' stop='1647944811675'>
+    <name>Check payment page (negative)</name>
+    <title>Check payment page (negative)</title>
+    <test-cases>
+        <test-case start='1647944768006' status='passed' stop='1647944774860'>
+            <name>Check empty fields validation</name>
+            <title>Check empty fields validation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944774894' status='passed' stop='1647944781225'>
+            <name>Check card number field validation Card number: 11111111111</name>
+            <title>Check card number field validation Card number: 11111111111</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944781247' status='passed' stop='1647944787252'>
+            <name>Check card number field validation Card number: 23424</name>
+            <title>Check card number field validation Card number: 23424</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944787271' status='passed' stop='1647944793258'>
+            <name>Check data field validation Date: 01/2021</name>
+            <title>Check data field validation Date: 01/2021</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944793279' status='passed' stop='1647944799256'>
+            <name>Check data field validation Date: 01/2073</name>
+            <title>Check data field validation Date: 01/2073</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944799272' status='passed' stop='1647944805541'>
+            <name>Check data field validation Date: 01/</name>
+            <title>Check data field validation Date: 01/</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1647944805567' status='passed' stop='1647944811653'>
+            <name>Check cvv validation</name>
+            <title>Check cvv validation</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

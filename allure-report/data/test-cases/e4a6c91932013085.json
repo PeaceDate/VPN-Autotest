@@ -1,0 +1,48 @@
+{
+  "uid" : "e4a6c91932013085",
+  "name" : "Check data field validation Date: 01/2073",
+  "fullName" : "Check payment page (negative).Check data field validation Date: 01/2073",
+  "historyId" : "8adca032c32393464bd3a009ae38787d",
+  "time" : {
+    "start" : 1647940716189,
+    "stop" : 1647940723162,
+    "duration" : 6973
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check data field validation Date: 01/2073"
+  }, {
+    "name" : "package",
+    "value" : "Check payment page (negative)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4a6c91932013085.json",
+  "parameterValues" : [ ]
+}

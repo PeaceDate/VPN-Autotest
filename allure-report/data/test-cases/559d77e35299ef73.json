@@ -1,0 +1,58 @@
+{
+  "uid" : "559d77e35299ef73",
+  "name" : "Check login and payment",
+  "fullName" : "Check user flow.Check login and payment",
+  "historyId" : "1f7b4a9fb80dcc5fc8f0bfb9ae03251e",
+  "time" : {
+    "start" : 1647944871482,
+    "stop" : 1647944884218,
+    "duration" : 12736
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check user flow"
+  }, {
+    "name" : "testClass",
+    "value" : "Check user flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check login and payment"
+  }, {
+    "name" : "package",
+    "value" : "Check user flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "565fb4248e682a25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940781818,
+        "stop" : 1647940798801,
+        "duration" : 16983
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "559d77e35299ef73.json",
+  "parameterValues" : [ ]
+}

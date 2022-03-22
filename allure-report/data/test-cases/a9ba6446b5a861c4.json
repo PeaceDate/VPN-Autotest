@@ -1,0 +1,48 @@
+{
+  "uid" : "a9ba6446b5a861c4",
+  "name" : "Check payment popup (primary button)",
+  "fullName" : "Check payment page (positive).Check payment popup (primary button)",
+  "historyId" : "62ef3b167068bbd525716890479360d2",
+  "time" : {
+    "start" : 1647940747718,
+    "stop" : 1647940754171,
+    "duration" : 6453
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check payment popup (primary button)"
+  }, {
+    "name" : "package",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9ba6446b5a861c4.json",
+  "parameterValues" : [ ]
+}

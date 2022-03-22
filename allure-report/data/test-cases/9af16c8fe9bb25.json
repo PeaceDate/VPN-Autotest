@@ -1,0 +1,50 @@
+{
+  "uid" : "9af16c8fe9bb25",
+  "name" : "Check login and payment (invalid cvv)",
+  "fullName" : "Check user flow.Check login and payment (invalid cvv)",
+  "historyId" : "b9f47bfd322ece0128f5cc4e5d86de8f",
+  "time" : {
+    "start" : 1647944854643,
+    "stop" : 1647944866007,
+    "duration" : 11364
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check user flow"
+  }, {
+    "name" : "testClass",
+    "value" : "Check user flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check login and payment (invalid cvv)"
+  }, {
+    "name" : "package",
+    "value" : "Check user flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9af16c8fe9bb25.json",
+  "parameterValues" : [ ]
+}

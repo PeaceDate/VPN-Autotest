@@ -1,270 +1,290 @@
 [ {
-  "uid" : "799dc9088659f0c",
-  "name" : "Check Get Iron VPN secondary button",
-  "time" : {
-    "start" : 1647940679031,
-    "stop" : 1647940680140,
-    "duration" : 1109
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "709c676f93fb8af3",
-  "name" : "Check email field validation test@test.@com",
-  "time" : {
-    "start" : 1647940667545,
-    "stop" : 1647940669206,
-    "duration" : 1661
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "aec7e3f1e388b393",
-  "name" : "Check close payment popup",
-  "time" : {
-    "start" : 1647940760515,
-    "stop" : 1647940770989,
-    "duration" : 10474
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "69f3ffad7eb0c0a8",
-  "name" : "Check data field validation Date: 01/",
-  "time" : {
-    "start" : 1647940723184,
-    "stop" : 1647940730068,
-    "duration" : 6884
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d376c501bcb61aaa",
-  "name" : "Check data field validation Date: 01/2073",
-  "time" : {
-    "start" : 1647940716189,
-    "stop" : 1647940723162,
-    "duration" : 6973
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6c24bde075b9de6b",
-  "name" : "Check email field validation test.@test.com",
-  "time" : {
-    "start" : 1647940669221,
-    "stop" : 1647940670835,
-    "duration" : 1614
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e65275144aabbaca",
-  "name" : "Check email field validation test",
-  "time" : {
-    "start" : 1647940662960,
-    "stop" : 1647940664166,
-    "duration" : 1206
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6f2b5fb648dd5012",
-  "name" : "Check Get Iron VPN popup (primary button)",
-  "time" : {
-    "start" : 1647940680157,
-    "stop" : 1647940681194,
-    "duration" : 1037
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1c700eaff1f69472",
-  "name" : "Check Get Iron VPN popup (secondary button)",
-  "time" : {
-    "start" : 1647940681213,
-    "stop" : 1647940682208,
-    "duration" : 995
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7a929d67dd2ded58",
-  "name" : "Check email field validation test@test..com",
-  "time" : {
-    "start" : 1647940665721,
-    "stop" : 1647940667518,
-    "duration" : 1797
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "623007c238335caa",
-  "name" : "Check email field validation test@@test.com",
-  "time" : {
-    "start" : 1647940664172,
-    "stop" : 1647940665709,
-    "duration" : 1537
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "af4fe735470f1f3c",
-  "name" : "Check data field validation Date: 01/2021",
-  "time" : {
-    "start" : 1647940708864,
-    "stop" : 1647940716164,
-    "duration" : 7300
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bfe766dabe5a0672",
+  "uid" : "f5aa7d8b92bab072",
   "name" : "Check empty field email (checked checkbox)",
   "time" : {
-    "start" : 1647940661219,
-    "stop" : 1647940662949,
-    "duration" : 1730
+    "start" : 1647944740824,
+    "stop" : 1647944742021,
+    "duration" : 1197
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6fa7dde1c0a8677c",
-  "name" : "Check value from select",
-  "time" : {
-    "start" : 1647940683393,
-    "stop" : 1647940685040,
-    "duration" : 1647
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "38a4ba727d192d36",
-  "name" : "Check close Get Iron VPN popup",
-  "time" : {
-    "start" : 1647940682224,
-    "stop" : 1647940683386,
-    "duration" : 1162
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b6581d0cc03593be",
-  "name" : "Check empty fields validation",
-  "time" : {
-    "start" : 1647940688600,
-    "stop" : 1647940695755,
-    "duration" : 7155
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "596f0823f0a6b042",
-  "name" : "Check card number field validation Card number: 23424",
-  "time" : {
-    "start" : 1647940702392,
-    "stop" : 1647940708836,
-    "duration" : 6444
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1d3f6072694d8279",
-  "name" : "Check cvv validation",
-  "time" : {
-    "start" : 1647940730095,
-    "stop" : 1647940736867,
-    "duration" : 6772
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4495db31f953dcf6",
-  "name" : "Check Get Iron VPN primary button",
-  "time" : {
-    "start" : 1647940739942,
-    "stop" : 1647940743985,
-    "duration" : 4043
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4da1e899a06dc33",
-  "name" : "Check Get Iron VPN primary button",
-  "time" : {
-    "start" : 1647940675912,
-    "stop" : 1647940679009,
-    "duration" : 3097
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "89a3f2e66480a4e3",
-  "name" : "Check card number field validation Card number: 11111111111",
-  "time" : {
-    "start" : 1647940695786,
-    "stop" : 1647940702351,
-    "duration" : 6565
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2db6fc7eac45f3b",
-  "name" : "Check login and payment",
-  "time" : {
-    "start" : 1647940781818,
-    "stop" : 1647940798801,
-    "duration" : 16983
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "61955377a036427a",
-  "name" : "Check payment popup (secondary button)",
-  "time" : {
-    "start" : 1647940754211,
-    "stop" : 1647940760496,
-    "duration" : 6285
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "447aec1640c5e0f2",
+  "uid" : "581cf72a71f7f2c9",
   "name" : "Check Get Iron VPN secondary button",
   "time" : {
-    "start" : 1647940744034,
-    "stop" : 1647940747700,
-    "duration" : 3666
+    "start" : 1647944756785,
+    "stop" : 1647944757796,
+    "duration" : 1011
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6a820743d9f32789",
+  "uid" : "fb3f9d45eb385158",
+  "name" : "Check value from select",
+  "time" : {
+    "start" : 1647944762587,
+    "stop" : 1647944764400,
+    "duration" : 1813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41ee4715eafa8999",
+  "name" : "Check card number field validation Card number: 23424",
+  "time" : {
+    "start" : 1647944781247,
+    "stop" : 1647944787252,
+    "duration" : 6005
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e72e82375e25710e",
+  "name" : "Check email field validation test@test.@com",
+  "time" : {
+    "start" : 1647944746458,
+    "stop" : 1647944747772,
+    "duration" : 1314
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "559d77e35299ef73",
+  "name" : "Check login and payment",
+  "time" : {
+    "start" : 1647944871482,
+    "stop" : 1647944884218,
+    "duration" : 12736
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "501db812d53f9f5",
+  "name" : "Check data field validation Date: 01/2073",
+  "time" : {
+    "start" : 1647944793279,
+    "stop" : 1647944799256,
+    "duration" : 5977
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ecd87ecd2be31a5",
+  "name" : "Check data field validation Date: 01/2021",
+  "time" : {
+    "start" : 1647944787271,
+    "stop" : 1647944793258,
+    "duration" : 5987
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "579410516b9f6f6c",
   "name" : "Check empty field email",
   "time" : {
-    "start" : 1647940657943,
-    "stop" : 1647940661197,
-    "duration" : 3254
+    "start" : 1647944737387,
+    "stop" : 1647944740807,
+    "duration" : 3420
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e05c943125a7d616",
+  "uid" : "3be9576c95a9f6b6",
+  "name" : "Check payment popup (secondary button)",
+  "time" : {
+    "start" : 1647944825692,
+    "stop" : 1647944830794,
+    "duration" : 5102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51a6a3028ce55c5d",
+  "name" : "Check close Get Iron VPN popup",
+  "time" : {
+    "start" : 1647944760668,
+    "stop" : 1647944762564,
+    "duration" : 1896
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e61f15d7abe45b3",
+  "name" : "Check Get Iron VPN primary button",
+  "time" : {
+    "start" : 1647944754279,
+    "stop" : 1647944756752,
+    "duration" : 2473
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b219e9de35062ad",
   "name" : "Check payment popup (primary button)",
   "time" : {
-    "start" : 1647940747718,
-    "stop" : 1647940754171,
-    "duration" : 6453
+    "start" : 1647944820474,
+    "stop" : 1647944825678,
+    "duration" : 5204
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5e1f9a4d94876ec4",
+  "uid" : "cc1372fe1eddd23",
+  "name" : "Check Get Iron VPN secondary button",
+  "time" : {
+    "start" : 1647944817595,
+    "stop" : 1647944820462,
+    "duration" : 2867
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60f3fc599dc3aa2c",
+  "name" : "Check Get Iron VPN popup (secondary button)",
+  "time" : {
+    "start" : 1647944759181,
+    "stop" : 1647944760635,
+    "duration" : 1454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "454e8a5a5708bfcf",
   "name" : "Check email field validation test@test.com..",
   "time" : {
-    "start" : 1647940670852,
-    "stop" : 1647940672775,
-    "duration" : 1923
+    "start" : 1647944749279,
+    "stop" : 1647944751134,
+    "duration" : 1855
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90dcc3272f91b380",
+  "name" : "Check email field validation test@@test.com",
+  "time" : {
+    "start" : 1647944743182,
+    "stop" : 1647944744844,
+    "duration" : 1662
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7185dd92e1de3afe",
+  "name" : "Check email field validation test",
+  "time" : {
+    "start" : 1647944742027,
+    "stop" : 1647944743172,
+    "duration" : 1145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89d91ed11538f050",
+  "name" : "Check Get Iron VPN primary button",
+  "time" : {
+    "start" : 1647944814473,
+    "stop" : 1647944817582,
+    "duration" : 3109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9af16c8fe9bb25",
+  "name" : "Check login and payment (invalid cvv)",
+  "time" : {
+    "start" : 1647944854643,
+    "stop" : 1647944866007,
+    "duration" : 11364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a54739de7607ab29",
+  "name" : "Check email field validation test.@test.com",
+  "time" : {
+    "start" : 1647944747778,
+    "stop" : 1647944749274,
+    "duration" : 1496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b65bcaa7d0ff0531",
+  "name" : "Check close payment popup",
+  "time" : {
+    "start" : 1647944830807,
+    "stop" : 1647944838641,
+    "duration" : 7834
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad4b076a2f9fc48a",
+  "name" : "Check Get Iron VPN popup (primary button)",
+  "time" : {
+    "start" : 1647944757810,
+    "stop" : 1647944759168,
+    "duration" : 1358
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cd3c9f1bec9b844",
+  "name" : "Check login and payment (invalid date)",
+  "time" : {
+    "start" : 1647944841854,
+    "stop" : 1647944854622,
+    "duration" : 12768
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0c9399f9814af33",
+  "name" : "Check empty fields validation",
+  "time" : {
+    "start" : 1647944768006,
+    "stop" : 1647944774860,
+    "duration" : 6854
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48bd32422bf0e3d4",
+  "name" : "Check email field validation test@test..com",
+  "time" : {
+    "start" : 1647944744857,
+    "stop" : 1647944746442,
+    "duration" : 1585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3dfa43ed487b3826",
+  "name" : "Check data field validation Date: 01/",
+  "time" : {
+    "start" : 1647944799272,
+    "stop" : 1647944805541,
+    "duration" : 6269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e325f25933a40e7",
+  "name" : "Check cvv validation",
+  "time" : {
+    "start" : 1647944805567,
+    "stop" : 1647944811653,
+    "duration" : 6086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ece79a89fe6b0ac8",
+  "name" : "Check card number field validation Card number: 11111111111",
+  "time" : {
+    "start" : 1647944774894,
+    "stop" : 1647944781225,
+    "duration" : 6331
   },
   "status" : "passed",
   "severity" : "normal"

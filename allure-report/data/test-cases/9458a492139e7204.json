@@ -1,0 +1,48 @@
+{
+  "uid" : "9458a492139e7204",
+  "name" : "Check Get Iron VPN primary button",
+  "fullName" : "Check payment page (positive).Check Get Iron VPN primary button",
+  "historyId" : "91ade709dda9cd6d9eeb08901ed5085d",
+  "time" : {
+    "start" : 1647940739942,
+    "stop" : 1647940743985,
+    "duration" : 4043
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check Get Iron VPN primary button"
+  }, {
+    "name" : "package",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9458a492139e7204.json",
+  "parameterValues" : [ ]
+}

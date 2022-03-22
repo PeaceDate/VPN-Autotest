@@ -172,5 +172,14 @@ export class Payment {
             .checkElementPropertyIframe(mapping_payment.inputs.cvv, property, value);
         return this;
     }
+    /**
+     * Метод для проверки наличия неуспешного попапа при оплате
+     * @param state - Флаг для условия, если true то URL изменился и видим, если false то нет. (по умолчанию true)
+     * @example 
+     */
+    checkUnsuccessfullPopap (state: boolean) {
+        common.chekElementExist(mapping_payment.popups.unsuccessPopap, state);
+        return this;
+    }
 }
 export const payment = new Payment()

@@ -1,0 +1,58 @@
+{
+  "uid" : "b65bcaa7d0ff0531",
+  "name" : "Check close payment popup",
+  "fullName" : "Check payment page (positive).Check close payment popup",
+  "historyId" : "eda324c10eeba3625b23de788f145578",
+  "time" : {
+    "start" : 1647944830807,
+    "stop" : 1647944838641,
+    "duration" : 7834
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check close payment popup"
+  }, {
+    "name" : "package",
+    "value" : "Check payment page (positive)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9a3cb2938bc4856a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647940760515,
+        "stop" : 1647940770989,
+        "duration" : 10474
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b65bcaa7d0ff0531.json",
+  "parameterValues" : [ ]
+}

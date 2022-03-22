@@ -1,0 +1,48 @@
+{
+  "uid" : "d25b928519a1458",
+  "name" : "Check empty field email (checked checkbox)",
+  "fullName" : "Check autorization page (nagative).Check empty field email (checked checkbox)",
+  "historyId" : "8db33838ffc06d32d48ba15c78555161",
+  "time" : {
+    "start" : 1647940661219,
+    "stop" : 1647940662949,
+    "duration" : 1730
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "testClass",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check empty field email (checked checkbox)"
+  }, {
+    "name" : "package",
+    "value" : "Check autorization page (nagative)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d25b928519a1458.json",
+  "parameterValues" : [ ]
+}
